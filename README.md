@@ -1,4 +1,4 @@
-# React Navigation 5
+# React Navigation 5x
 
 [![Build Status][build-badge]][build]
 [![Code Coverage][coverage-badge]][coverage]
